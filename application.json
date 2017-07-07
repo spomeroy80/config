@@ -1,3 +1,4 @@
 {
-  "MaxPost": 20
+  "MaxPost": 20,
+  "MaxComment": 100,
 }
