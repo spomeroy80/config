@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26621.2
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{476BFFA3-2D9F-465F-810F-0FFFF3651EA2}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4E293BAB-FF0B-4443-AB18-59A7D5CA5905}"
 	ProjectSection(SolutionItems) = preProject
-		application.yml = application.yml
+		application.json = application.json
 	EndProjectSection
 EndProject
 Global
@@ -13,6 +13,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {0CF6B502-53F4-4585-A58D-7E47127D237B}
+		SolutionGuid = {D8428A44-F6CA-44F9-81D0-3A7532767BA9}
 	EndGlobalSection
 EndGlobal
