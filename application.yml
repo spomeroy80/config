@@ -4,7 +4,7 @@ eureka:
   client:
     serviceUrl: http://172.20.0.7:8761/eureka/
     validate_certificates: false
-spring
+spring:
   cloud:
     config:
        server:
